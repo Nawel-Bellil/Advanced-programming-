@@ -1,4 +1,4 @@
-# Initialize an empty dictionary to store city names and their populations
+# used a dictionqary to pair city and population
 city_populations = {}
 
 print("Enter city names one by one. Type 'stop' to finish:")
